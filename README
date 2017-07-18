@@ -1,0 +1,15 @@
+Features in the handout that work:
+  IO Redirection
+  Pipes
+  Ctrl-C
+  Exit
+  Builtins
+  Wildcarding
+  Zombie Elimination
+  Quotes
+  Escaping
+  Enviornment Variable Expansion
+  Tile Expansion
+  Edit Mode
+  History
+  Subshell
