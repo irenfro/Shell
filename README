@@ -1,4 +1,4 @@
-Features in the handout that work:
+Features that this shell implements:
   IO Redirection
   Pipes
   Ctrl-C
